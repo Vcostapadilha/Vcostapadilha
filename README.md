@@ -5,7 +5,7 @@ Currently, I orchestrate LLMs and modern tech stacks to build functional applica
 
 What I'm building
 Haverá Sinais
-A web engine for social media analysis built with TypeScript, Next.js, and Supabase. I integrated Gemini 2.0 Flash for processing and Google Cloud for neural voice synthesis. To maximize conversion and privacy, I designed it as a stateless application: no login required, no data hoarding, and a low-friction payment flow. It is built for viral potential and high margins.
+A web engine for social media analysis for the brazilian market built with TypeScript, Next.js, and Supabase. I integrated Gemini 2.0 Flash for processing and Google Cloud for neural voice synthesis. To maximize conversion and privacy, I designed it as a stateless application: no login required, no data hoarding, and a low-friction payment flow. It is built for viral potential and high margins.
 
 MealMax
 A nutrition platform that re-engineers recipes into high-protein versions. More than just generating text, the system integrates with the USDA API for precise macro calculations. I am currently working on computer vision features to estimate portion sizes and weights automatically.
