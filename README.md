@@ -13,7 +13,8 @@ A white-label SaaS for barbershop membership clubs. Covers subscription manageme
 
 Personal projects
 Haverá Sinais (discontinued)
-A satirical AI analysis engine for the Brazilian market. Users submitted public Instagram profiles and received pattern readings written in internet culture dialect. The legal protection was built into the language itself: the system, never the person, was always the subject of every conclusion. Two products via Pix: single profile analysis at R$4.99 and head-to-head duels at R$5.99. Stateless by design — images processed in memory, never stored. Built with Next.js, Supabase, Gemini 2.5 Flash, Google Cloud TTS, and Mercado Pago.
+A satirical AI analysis engine for the Brazilian market. Users submitted public Instagram profiles and received pattern readings written in internet culture dialect. The legal protection was built into the language itself: the system, never the person, was always the subject of every conclusion. Two products via Pix: single profile analysis at R$4.99 and head-to-head duels at R$5.99. Stateless by design, images processed in memory, never stored. Built with Next.js, Supabase, Gemini 2.5 Flash, Google Cloud TTS, and Mercado Pago.
+
 LAVIM — Literally A Very Intelligent Memory
 A persistent memory system for AI-assisted development. Ingests Claude Code session memory, git logs, and markdown files to populate an Obsidian vault through a two-pass engine: entity extraction, then file enrichment with frontmatter, wikilinks, and recency markers. Automation hooks keep it self-updating across sessions and projects. Built with Python, Bash, Gemini, and the Claude API.
 
